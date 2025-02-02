@@ -20,6 +20,7 @@
   
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+![dajngo](https://github.com/user-attachments/assets/8319aaed-a3d4-4e31-a493-2b04906407bd)
 
 
   ### Programming Languages
