@@ -9,8 +9,8 @@ Atualmente, estou aprimorando minhas habilidades em **React**, **Django**, **MyS
 
 <div align="center">
   <a href="https://github.com/italoferreira0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoferreira0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoferreira0&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoferreira0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoferreira0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
@@ -64,8 +64,9 @@ Atualmente, estou aprimorando minhas habilidades em **React**, **Django**, **MyS
 ## 🚀 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💡 Interesse por **IA**, **Sistemas Embarcados**, **Segurança da Informação** e **Desenvolvimento Web**
-- ⚙️ Gosto de **otimizar sistemas** e buscar **melhor desempenho e segurança**
-- 🌱 Sempre aprendendo e explorando novas tecnologias!
+- ⚙️ Gosto de **otimizar sistemas**, buscando **melhor desempenho e segurança**
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+- 🧭 Em busca de oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente
 
 ---
 
