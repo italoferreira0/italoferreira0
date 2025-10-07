@@ -62,7 +62,7 @@ Atualmente, estou aprimorando minhas habilidades em **React**, **Django**, **MyS
 ---
 
 ## 🚀 Sobre Mim
-- 🎓 Estudante de **Ciência da Computação**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💡 Interesse por **IA**, **Sistemas Embarcados**, **Segurança da Informação** e **Desenvolvimento Web**
 - ⚙️ Gosto de **otimizar sistemas** e buscar **melhor desempenho e segurança**
 - 🌱 Sempre aprendendo e explorando novas tecnologias!
